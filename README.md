@@ -1,0 +1,2 @@
+# blazor-compiler
+THIS IS NOT MY CODE. THIS IS MICROSOFT'S CODE.
