@@ -1,0 +1,3 @@
+*.wasm binary
+*.br binary
+*.gz binary
